@@ -144,10 +144,11 @@ padding: 10px;
 font-size: 12px;
 }
 .play {
+    display: none;
     position: absolute;
     top: -175px;
     left: 90px;
-    display: none;
+    
 }
 .letter {
     font-size: 13px;
@@ -211,6 +212,7 @@ border: none;
 }
 .button:hover {
     border: 4px solid #F948B2 ;
+    color: #F948B2;
 }
 .game-name
 {
